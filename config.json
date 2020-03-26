@@ -1,0 +1,32 @@
+{
+  "name": {
+    "zh-cn": "PAJ7620U2 手势识别传感器",
+    "en": "PAJ7620U2 Gesture Sensor"
+  },
+  "description": {
+    "zh-cn": "PAJ7620U2手势识别传感器是一款以IIC通信的3D手势识别交互式传感器。在最远20cm范围内，可以识别的手势多达13种。",
+    "en": "It is an interactive sensor with 3D gesture recognition that can recognize 13 gestures at most within 20cm."
+  },
+  "author": "Dai",
+  "email": "yingdong.dai@dfrobot.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "PAJ7620U2_Gesture_Sensor",
+  "platform": [
+    "win"
+  ],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.1",
+      "board": [
+        "arduino",
+        "leonardo",
+        "esp32"
+         
+      ],
+      "main": "main.ts"
+     
+    }
+  }
+}
