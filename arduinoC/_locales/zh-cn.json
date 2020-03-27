@@ -2,5 +2,5 @@
     "PAJ7620U2_Gesture_Sensor.set_Gesture_Rate|block": "设置PAJ7620U2手势传感器[MODEL]模式",
     "PAJ7620U2_Gesture_Sensor.get_Gesture|block": "PAJ7620U2手势传感器[GESTURE]被触发",
     "PAJ7620U2_Gesture_Sensor.return_Gesture|block": "当前手势",
-    "oled12864.print_Gesture|block": "打印当前手势"
+    "PAJ7620U2_Gesture_Sensor.print_Gesture|block": "打印当前手势"
 }
