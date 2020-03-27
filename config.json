@@ -22,6 +22,7 @@
       "board": [
         "arduino",
         "leonardo",
+        "microbit",
         "esp32"
          
       ],
